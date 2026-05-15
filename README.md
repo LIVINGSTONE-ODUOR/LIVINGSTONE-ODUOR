@@ -14,9 +14,9 @@
 
 ![Interactive Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=500&color=6A11CB&center=true&vCenter=true&multiline=false&width=1200&height=100&lines=🔮+Architect+of+Digital+Realities;⚡+Full-Stack+Engineer+×+Creative+Technologist;🌌+Building+Scalable+Dreams+into+Production;🎯+10x+Developer+Mindset;💫+Let's+Create+Magic+Together)
 
-[![GitHub Followers](https://img.shields.io/github/followers/bossy254-levi?logo=github&style=for-the-badge&color=6A11CB&labelColor=0D1117&label=Followers)](https://github.com/BOSSY254-LEVI)
+[![GitHub Followers](https://img.shields.io/github/followers/LIVINGSTONE-ODUOR?logo=github&style=for-the-badge&color=6A11CB&labelColor=0D1117&label=Followers)](https://github.com/LIVINGSTONE-ODUOR)
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/livingstone-oduor-451399397/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://bossy254-levi.github.io/BOSSY254-LEVI/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://LIVINGSTONE-ODUOR.github.io/LIVINGSTONE-ODUOR/)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:livingstoneoduory@gmail.com)
 [![Discord](https://img.shields.io/badge/Let's_Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.gg/)
 
@@ -34,19 +34,19 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/BOSSY254-LEVI/BOSSY254-LEVI/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/LIVINGSTONE-ODUOR/LIVINGSTONE-ODUOR/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/BOSSY254-LEVI/BOSSY254-LEVI/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/LIVINGSTONE-ODUOR/LIVINGSTONE-ODUOR/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/BOSSY254-LEVI/BOSSY254-LEVI/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/LIVINGSTONE-ODUOR/LIVINGSTONE-ODUOR/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
-[![Watch the snake eat my contributions](https://img.shields.io/badge/🐍-Watch_Snake_in_Action-6A11CB?style=for-the-badge)](https://github.com/BOSSY254-LEVI)
+[![Watch the snake eat my contributions](https://img.shields.io/badge/🐍-Watch_Snake_in_Action-6A11CB?style=for-the-badge)](https://github.com/LIVINGSTONE-ODUOR)
 
 </div>
 
@@ -56,10 +56,10 @@
 
 | 🎮 **Game** | 🎯 **Description** | 🏆 **High Score** | 🔗 **Play Now** |
 |------------|-------------------|-------------------|-----------------|
-| **Retro Snake** | Navigate through contributions | 1,234 pts | [![Play](https://img.shields.io/badge/▶️_Play-6A11CB?style=flat-square)](https://bossy254-levi.github.io/snake) |
-| **Code Breaker** | Algorithm puzzle challenge | 42 solved | [![Play](https://img.shields.io/badge/▶️_Play-2575FC?style=flat-square)](https://bossy254-levi.github.io/code-breaker) |
-| **Dev Dash** | Sprint through tech stacks | 15.2s | [![Play](https://img.shields.io/badge/▶️_Play-2EA043?style=flat-square)](https://bossy254-levi.github.io/dev-dash) |
-| **Terminal Quest** | CLI adventure RPG | Level 7 | [![Play](https://img.shields.io/badge/▶️_Play-D14836?style=flat-square)](https://bossy254-levi.github.io/terminal-quest) |
+| **Retro Snake** | Navigate through contributions | 1,234 pts | [![Play](https://img.shields.io/badge/▶️_Play-6A11CB?style=flat-square)](https://LIVINGSTONE-ODUOR.github.io/snake) |
+| **Code Breaker** | Algorithm puzzle challenge | 42 solved | [![Play](https://img.shields.io/badge/▶️_Play-2575FC?style=flat-square)](https://LIVINGSTONE-ODUOR.github.io/code-breaker) |
+| **Dev Dash** | Sprint through tech stacks | 15.2s | [![Play](https://img.shields.io/badge/▶️_Play-2EA043?style=flat-square)](https://LIVINGSTONE-ODUOR.github.io/dev-dash) |
+| **Terminal Quest** | CLI adventure RPG | Level 7 | [![Play](https://img.shields.io/badge/▶️_Play-D14836?style=flat-square)](https://LIVINGSTONE-ODUOR.github.io/terminal-quest) |
 
 </div>
 
@@ -308,7 +308,7 @@ DESIGN      ███████████████████░░ 90% 
         Translating business complexity into elegant technical solutions
         <br><br>
         <b>🐙 GITHUB:</b><br>
-        <a href="https://github.com/BOSSY254-LEVI">BOSSY254-LEVI</a>
+        <a href="https://github.com/LIVINGSTONE-ODUOR">LIVINGSTONE-ODUOR</a>
       </td>
     </tr>
   </table>
@@ -405,13 +405,13 @@ pie
 
 ### 📈 CONTRIBUTION GRAPH
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bossy254-levi&theme=react-dark&bg_color=0D1117&color=6A11CB&line=2575FC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LIVINGSTONE-ODUOR&theme=react-dark&bg_color=0D1117&color=6A11CB&line=2575FC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
 ### 🎯 STREAK STATISTICS
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bossy254-levi&theme=radical&hide_border=true&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LIVINGSTONE-ODUOR&theme=radical&hide_border=true&card_width=800)](https://git.io/streak-stats)
 
 <br>
 
@@ -572,8 +572,8 @@ mindmap
 
 ### **⚡ Live Profile Status**
 
-![Profile Views](https://komarev.com/ghpvc/?username=BOSSY254-LEVI&color=6A11CB&style=for-the-badge&label=MATRIX+ACCESS+COUNT)
-![Last Deployed](https://img.shields.io/github/last-commit/BOSSY254-LEVI/BOSSY254-LEVI?style=for-the-badge&color=6A11CB&label=LAST+UPDATE&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=LIVINGSTONE-ODUOR&color=6A11CB&style=for-the-badge&label=MATRIX+ACCESS+COUNT)
+![Last Deployed](https://img.shields.io/github/last-commit/LIVINGSTONE-ODUOR/LIVINGSTONE-ODUOR?style=for-the-badge&color=6A11CB&label=LAST+UPDATE&labelColor=0D1117)
 
 ### 🎮 **Join My Coding Journey**
 
@@ -629,7 +629,7 @@ mindmap
 ### ⭐ **Ready to start your next commit?**
 
 <p align="center">
-  <a href="https://github.com/BOSSY254-LEVI?tab=repositories">
+  <a href="https://github.com/LIVINGSTONE-ODUOR?tab=repositories">
     <img src="https://img.shields.io/badge/🚀_VIEW_MY_WORK-6A11CB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   </a>
   <a href="mailto:livingstoneoduory@gmail.com">
@@ -669,6 +669,6 @@ mindmap
 
 <div align="center">
   
-  ![Footer Animation](https://raw.githubusercontent.com/BOSSY254-LEVI/BOSSY254-LEVI/output/github-contribution-grid-snake-dark.svg)
+  ![Footer Animation](https://raw.githubusercontent.com/LIVINGSTONE-ODUOR/LIVINGSTONE-ODUOR/output/github-contribution-grid-snake-dark.svg)
 
 </div>
